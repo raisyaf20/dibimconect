@@ -1,0 +1,35 @@
+{
+  "notes": [
+    {
+      "title": "mangan",
+      "description": " description mangan di ubah nih bos cek cek dong",
+      "author": "eko",
+      "id": 5
+    },
+    {
+      "title": "Baca buku",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "eko",
+      "id": 6
+    },
+    {
+      "title": "Make video youtube",
+      "description": "Eos, quam rem delectus ea beatae nemo animi debitis.",
+      "author": "sandika",
+      "id": 7
+    },
+    {
+      "title": "Workout",
+      "description": "Possimus veritatis animi. Amet possimus velit dignissimos nesciunt, liberonam voluptates inventore corrupti, eos nisi autem id? Inincidunt beatae",
+      "author": "sandika",
+      "id": 8
+    },
+
+    {
+      "title": "notes pertama saya",
+      "description": "bisa use context anjai anjai",
+      "author": "typicode",
+      "id": 10
+    }
+  ]
+}
